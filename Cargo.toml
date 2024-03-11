@@ -1,4 +1,5 @@
 [workspace]
+resolver = "2"
 members = [
     "lessons/1. Initialization",
     "lessons/2. Triangle",

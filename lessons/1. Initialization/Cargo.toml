@@ -5,7 +5,8 @@ authors = ["taidaesal"]
 edition = "2021"
 
 [dependencies]
-vulkano = "0.32.3"
-vulkano-shaders = "0.32.0"
-vulkano-win = "0.32.0"
-winit = "0.27.3"
+dhat = "0.3.3"
+vulkano = "=0.34.0"
+vulkano-shaders = "=0.34.0"
+vulkano-win = "=0.34.0"
+winit = "=0.28.7"
